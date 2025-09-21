@@ -1,3 +1,9 @@
 flask
 python-dotenv
+click==8.1.6
+colorama==1.4.6
+prompt_toolkit==3.0.38
+psutil==5.9.5
 google-genai
+gunicorn==20.1.0
+
